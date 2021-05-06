@@ -1,2 +1,2 @@
 # OSS_team
-## 박재인이 수정!
+## not initial state
